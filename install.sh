@@ -51,6 +51,7 @@ thunderbird                  # - Email, RSS and newsgroup client with integrated
 gnome-disk-utility # - manage and configure disk drives and media
 filezilla          # - Full-featured graphical FTP/FTPS/SFTP client
 synaptic           # - Graphical package manager
+curl               # - command line tool for transferring data with URL syntax
 
 # ----------------------------------------------------------------------------------
 # XFCE Environment
