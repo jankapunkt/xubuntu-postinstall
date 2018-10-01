@@ -29,8 +29,6 @@ texlive     `# - TeX Live: A decent selection of the TeX Live packages` \
 chromium-browser             `# - Chromium web browser, open-source version of Chrome` \
 chromium-browser-l10n        `# - chromium-browser language packages` \
 chromium-chromedriver        `# - WebDriver driver for the Chromium Browser` \
-chromium-codecs-ffmpeg       `# - Free ffmpeg codecs for the Chromium Browser` \
-chromium-codecs-ffmpeg-extra `# - Extra ffmpeg codecs for the Chromium Browser` \
 chromium-ublock-origin       `# - general-purpose lightweight ads, malware, trackers blocker (Chromium)` \
 libavcodec-extra             `# - FFmpeg library with extra codecs (metapackage)` \
 thunderbird                  `# - Email, RSS and newsgroup client with integrated spam filter` \
